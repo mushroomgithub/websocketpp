@@ -8,6 +8,8 @@ based on raw char buffers, one based on C++ iostreams, and one based on Asio
 (either via Boost or standalone). End users can write additional transport
 policies to support other networking or event libraries as needed.
 
+WebSocket++ 是一个只包含 C++ 头文件的 WebSocket 的 C++ 开发包，实现了 RFC 6455 也就是 WebSocket 协议。可以在 C++ 应用中实现 WebSocket 客户端和服务器端功能。使用可交换的网络传输模块，包括 C++ iostreams 和 Boost Asio。
+
 Major Features
 ==============
 * Full support for RFC6455
