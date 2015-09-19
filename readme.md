@@ -49,3 +49,4 @@ http://groups.google.com/group/websocketpp/
 Author
 ======
 Peter Thorson - websocketpp@zaphoyd.com
+
